@@ -36,7 +36,7 @@ namespace
 {
 
 	// TODO: replace with the real project/documentation link.
-	constexpr const wchar_t* ProjectLink = L"https://example.com/FallingStars";
+	constexpr const wchar_t* ProjectLink = L"https://github.com/ME-RA2YR-Studio/FallingStars/releases";
 
 	WNDPROC g_prevWndProc = nullptr;
 
